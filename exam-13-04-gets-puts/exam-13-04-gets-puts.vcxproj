@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c21ae878-c481-4be7-8674-46d5c5400a48}</ProjectGuid>
-    <RootNamespace>exam1302charfunction</RootNamespace>
+    <ProjectGuid>{54b9ce1d-ef76-46cf-a57f-089d12c11fc9}</ProjectGuid>
+    <RootNamespace>exam1304getsputs</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exam-13-02-char-function.c" />
+    <ClCompile Include="exam-13-04-gets-puts.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
