@@ -23,4 +23,44 @@ int main(void)
 			{29,30,31,32}
 `		}
 	};
+
+	int i, j;
+	// 3차원 배열의 첫번째 2차원 배열 값 출력
+	for (i = 0; i < 3; i++)
+	{
+		for (j = 0; j < 4; j++)
+		{
+			printf("%d", arr[0][i][j]);
+		}
+		printf("\n");
+	}
+
+	printf("\n");
+
+	// 3차원 배열의 첫번째 2차원 배열 값 출력
+	for (i = 0; i < 3; i++)
+	{
+		for (j = 0; j < 4; j++)
+		{
+			printf("%d", arr[1][i][j]);
+		}
+		printf("\n");
+	}
+
+	for (i = 0; i < 2; i++)
+	{
+		for (j = 0; j < 3; j++)
+		{
+			for (k = 0; k < 4; k++)
+			{
+				printf("%d", arr[1][i][j]);
+			}
+			printf("\n");
+		}
+		printf("\n");
+
+	}
+
+	return 0;
+
 }
