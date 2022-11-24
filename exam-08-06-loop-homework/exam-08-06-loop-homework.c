@@ -40,7 +40,7 @@ int main(void)
 
 	for (i = 0; i < 7; i++)
 	{
-		printf("%d : ", i);
+		
 		for (j = 0; j < 7; j++)
 		{
 			if (i < 4) {
@@ -64,6 +64,7 @@ int main(void)
 		}
 		/*else*/
 		{
+
 			if (i - j > 3)
 			{
 				printf(" ");
@@ -101,4 +102,3 @@ int main(void)
 	//	
 	//}
 	
-}
