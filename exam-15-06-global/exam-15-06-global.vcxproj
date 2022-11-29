@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c7162583-04ed-45d8-afcc-5cabd0f00461}</ProjectGuid>
-    <RootNamespace>exam1502function2</RootNamespace>
+    <ProjectGuid>{a42e45ed-c619-41cb-8b99-3c8486f0d532}</ProjectGuid>
+    <RootNamespace>exam1506global</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exam-15-02-function2.c" />
+    <ClCompile Include="exam-15-06-global.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
