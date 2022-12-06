@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{84b07fa1-59fe-44a1-84ff-2cf5a8ece256}</ProjectGuid>
-    <RootNamespace>exam99appendix</RootNamespace>
+    <ProjectGuid>{c75035c8-af7d-4b98-9804-e2d8a7baadcf}</ProjectGuid>
+    <RootNamespace>exam2002structurepointer2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exam-99-appendix-cafe.c" />
+    <ClCompile Include="exam-20-02-structure-pointer2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

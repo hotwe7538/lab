@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exam-99-appendix-cafe.c">
+    <ClCompile Include="exam-20-05-structure-function.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

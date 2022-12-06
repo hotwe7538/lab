@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{84b07fa1-59fe-44a1-84ff-2cf5a8ece256}</ProjectGuid>
-    <RootNamespace>exam99appendix</RootNamespace>
+    <ProjectGuid>{f3563930-53fa-4178-a0f2-e2ee8110da04}</ProjectGuid>
+    <RootNamespace>exam2003nestedstructure</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exam-99-appendix-cafe.c" />
+    <ClCompile Include="exam-20-03-nested-structure.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
